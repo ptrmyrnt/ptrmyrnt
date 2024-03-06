@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ptrmyrnt
 - 👀 I’m interested in Web Developer with any programming languages
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript, Go
 - 💞️ I’m looking to collaborate on any project Frontend Development
 - 📫 How to reach me, please email femiliapm29@gmail.com
 - 😄 Pronouns: Her/She
